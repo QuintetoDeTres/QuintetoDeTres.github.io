@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap');
+*{
+  width: 800px; margin: 0 auto;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  padding-top: 250px;
+  font-size: 80px;
+  color: green;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  padding-bottom: 100px;
+  padding-top: 100px
+}
+#nos{
+  width: 400px;
+  border: solid 0px;
+  border-radius: 50px 50px 50px 50px
+}
+#silla, #at, #mes, #class{
+  width: 300px;
+  border: solid 0px;
+  border-radius: 50px 50px 50px 50px;
+}
+#cumple{
+  width: 300px
+}
